@@ -26,9 +26,9 @@ class Config:
 	def banner(self):
 		return '''\n
 \033[0;96m   __  ___     ____  _   ___  ____
-\033[0;96m  /  |/  /_ __/ / /_(_) / _ )/ __/  \033[0m|| Created By DulLah
-\033[0;96m / /|_/ / // / / __/ / / _  / _/    \033[0m|| Github.com/dz-id
-\033[0;96m/_/  /_/\_,_/_/\__/_/ /____/_/ \033[0;91mv2.0 \033[0m|| FB.me/dulahz'''
+\033[0;96m  /  |/  /_ __/ / /_(_) / _ )/ __/  \033[0m|| Recode By Kholid
+\033[0;96m / /|_/ / // / / __/ / / _  / _/    \033[0m|| github.com/pendragon404
+\033[0;96m/_/  /_/\_,_/_/\__/_/ /____/_/ \033[0;91mv2.0 \033[0m|| wa.me/6285337780254'''
 
 	def httpRequest(self, url, cookies):
 		try:
